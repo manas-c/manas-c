@@ -78,8 +78,10 @@ Based in France | Working across international technology environments.
 
 ## 🏅 CERTIFICATIONS & PROFESSIONAL MEMBERSHIPS
 
-- **Dante Certification — Level 3**
-- **SMPTE — Member**, Society of Motion Picture and Television Engineers
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Developer – Associate
+- Cisco CCNA
+- Cisco CCNP Security Core
 
 ## 🌍 INTERNATIONAL ENGINEERING EXPERIENCE
 
